@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aditya Prayoga 👋
 
 - 🔭 I’m currently working on PT Brainmatics Cipta Informatika
 - 🌱 I’m currently studying in Universitas Indraprasta PGRI (Teknik Informatika, 5th)
