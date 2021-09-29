@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on PT Brainmatics Cipta Informatika
 - 🌱 I’m currently studying in Universitas Indraprasta PGRI (Teknik Informatika, 5th)
+- 🛠 Current Programming language is PHP (Laravel) and JS
+- 📫 How to reach me: [adityaprayoga.software](https://adityaprayoga.software)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -9,5 +11,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🛠 Current Programming language is PHP (Laravel) and JS
-- 📫 How to reach me: [adityaprayoga.software](https://adityaprayoga.software)
