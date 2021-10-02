@@ -1,7 +1,7 @@
 ### Hi there, I'm Aditya Prayoga 👋
 
 - 🔭 I’m currently working on PT Brainmatics Indonesia Cendekia
-- 🌱 a college student in Universitas Indraprasta PGRI (Teknik Informatika, 5th)
+- 🌱 a college student in Universitas Indraprasta PGRI (Teknik Informatika)
 - 🛠 Current Programming language is PHP (Laravel) and JS
 - 📫 How to reach me: [adityaprayoga.software](https://adityaprayoga.software)
 <!--
